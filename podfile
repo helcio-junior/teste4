@@ -1,0 +1,12 @@
+plataform :ios, '9.0'
+
+target 'MyList1' do
+
+    use_frameworks!
+    
+    # Pods for MyList1
+    
+pod 'RealmSwift'
+pod 'SwipeCellKit'
+    
+end
